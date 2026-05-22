@@ -10,7 +10,6 @@
       "xiaomi_band_10-2026-05-17-10-57-03.png",
       "xiaomi_band_10-2026-05-17-10-57-18.png",
       "xiaomi_band_10-2026-05-17-10-57-37.png",
-      "xiaomi_band_10-2026-05-17-10-57-49.png",
       "xiaomi_band_10-2026-05-17-10-59-10.png",
       "xiaomi_band_pro-2026-05-17-09-26-19.png"
     ],
@@ -26,6 +25,10 @@
   },
   "downloads": {
     "n66": {
+      "version": "1.1.1",
+      "file_name": "com.h.studyce.release.1.1.1.rpk"
+    },
+    "n67": {
       "version": "1.1.1",
       "file_name": "com.h.studyce.release.1.1.1.rpk"
     },
@@ -46,10 +49,6 @@
       "file_name": "com.h.studyce.release.1.1.1.rpk"
     },
     "o65": {
-      "version": "1.1.1",
-      "file_name": "com.h.studyce.release.1.1.1.rpk"
-    },
-    "n67": {
       "version": "1.1.1",
       "file_name": "com.h.studyce.release.1.1.1.rpk"
     }
