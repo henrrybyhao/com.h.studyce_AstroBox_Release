@@ -24,17 +24,17 @@
   },
   "links": [
     {
-      "icon": "shopping-cart-simple",
+      "icon": "shopping-cart",
       "title": "赞助链接",
       "url": "https://afdian.com/a/velabyh"
     }
   ],
   "downloads": {
-    "xmb9p": {
+    "xmb9": {
       "version": "1.1.1",
       "file_name": "腕上学习免费.rpk"
     },
-    "xmb9": {
+    "xmb9p": {
       "version": "1.1.1",
       "file_name": "腕上学习免费.rpk"
     },
@@ -43,6 +43,10 @@
       "file_name": "腕上学习免费.rpk"
     },
     "xmb10nfc": {
+      "version": "1.1.1",
+      "file_name": "腕上学习免费.rpk"
+    },
+    "xmb10p": {
       "version": "1.1.1",
       "file_name": "腕上学习免费.rpk"
     },
@@ -55,10 +59,6 @@
       "file_name": "腕上学习免费.rpk"
     },
     "xmrw5": {
-      "version": "1.1.1",
-      "file_name": "腕上学习免费.rpk"
-    },
-    "xmb10p": {
       "version": "1.1.1",
       "file_name": "腕上学习免费.rpk"
     }
